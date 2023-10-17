@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include advreports *.css
+recursive-include advreports *.csv
+recursive-include advreports *.html
+recursive-include advreports *.ico
+recursive-include advreports *.js
+recursive-include advreports *.json
+recursive-include advreports *.md
+recursive-include advreports *.png
+recursive-include advreports *.py
+recursive-include advreports *.svg
+recursive-include advreports *.txt
+recursive-exclude advreports *.pyc

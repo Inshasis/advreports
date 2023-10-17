@@ -1,0 +1,34 @@
+{
+ "cards": [
+  {
+   "card": "Ongoing Projects"
+  },
+  {
+   "card": "Project Contacts"
+  },
+  {
+   "card": "Recent Activity"
+  },
+  {
+   "card": "Task Status Chart"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Project Summary",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-10-06 00:32:32.271259",
+ "dashboard_name": "Project Status Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-10-13 18:23:39.711784",
+ "modified_by": "Administrator",
+ "module": "Advanced Reports",
+ "name": "Project Status Dashboard",
+ "owner": "Administrator"
+}

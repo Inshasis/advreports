@@ -1,0 +1,21 @@
+{
+ "creation": "2023-10-13 18:23:07.180425",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "null",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Recent Activity",
+ "method": "advreports.advanced_reports.custom.custom_dashboard_cards.get_recent_activity_card",
+ "modified": "2023-10-13 18:23:24.012827",
+ "modified_by": "Administrator",
+ "module": "Advanced Reports",
+ "name": "Recent Activity",
+ "owner": "Administrator",
+ "report_function": "Sum",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Custom"
+}

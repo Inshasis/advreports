@@ -158,7 +158,7 @@ def get_recent_activity_card(project=None):
         html = frappe.db.get_list('Activity Log', filters={'reference_doctype':'Task', 'timeline_doctype':'Project', 'timeline_name':project},
             fields=['subject'],
             order_by='creation DESC',
-            limit_page_length=1,
+            limit_page_length=5,
         )
         
     return html 
